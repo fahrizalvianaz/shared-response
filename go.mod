@@ -1,4 +1,4 @@
-module github.com/fahrizalvianaz/bookstore/shared
+module github.com/fahrizalvianaz/shared-response
 
 go 1.24.0
 
